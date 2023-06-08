@@ -723,11 +723,13 @@ div.sections div.section-container {
 
 div.sections div.section-container h2 {
     text-align: left;
+    line-height: 1.8rem;
 }
 
 div.sections div.section-container h3,
 div.sections div.section-container h4 {
     margin-bottom: 1.0rem;
+    line-height: 1.6rem;
 }
 
 div.sections div.section-container p {
