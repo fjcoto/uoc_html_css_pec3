@@ -752,7 +752,7 @@ div.sections div.section-container p a:hover {
 }
 
 div.sections figcaption {
-    padding: 0.6rem;
+    padding: 0.6rem 0 0.6rem 0;
     font-size: 0.85rem;
 }
 
